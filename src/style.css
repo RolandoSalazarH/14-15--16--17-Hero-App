@@ -1,0 +1,14 @@
+#custom-card{
+
+    margin: 40px;
+}
+
+#img-heroe{
+    width: 100%;
+}
+
+nav .Nav_link{
+display: inline-flex;
+position: fixed;
+
+}
